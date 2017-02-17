@@ -22,12 +22,12 @@ header
 }
 .horizons
 {
-	border: 20px solid #bbbbbb;
-	width: 40px;
-	height: 40px;
-	position: relative;
-	top: 17px;
-	display: ;
+	border: 10px solid #bbbbbb;
+	width: 450px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 .bio
@@ -36,6 +36,22 @@ header
 	font-family:'Pangolin', cursive;
 	font-size: 15px;
 	text-align: left;
+}
+.contact_info
+{
+	border: 10px solid #bbbbbb;
+	margin-left: auto;
+	background-color: #bcfffd;
+	text-align: right;
+	width: 50%;
+
+}
+.text_box
+{
+	width: 251px;
+	height: 41px;
+	display: inline-block;
+	text-align: center;
 }
 .aside
 {
@@ -48,10 +64,4 @@ header
 	width: 600px;
 	height: 400px;
 	display:center;
-}
-.text_box
-{
-	width: 251px;
-	height: 41px;
-	display: inline-block;
 }
