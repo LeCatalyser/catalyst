@@ -9,12 +9,23 @@
 .title
 {
 	color: turquoise;
-	background-color: #e0e1e3;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18;
 }
 .aside
 {
 	color:purple;
 	text-align: left;
 }
-
-
+.horizons
+{
+	width: 600px;
+	height: 400px;
+	display: inline-block;
+}
+.decisions
+{
+	width: 600px;
+	height: 400px;
+	display:inline-block;
+}
