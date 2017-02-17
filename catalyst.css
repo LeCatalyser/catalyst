@@ -3,10 +3,31 @@ body
 {
 	background:#d8d8d8;
 }
-.nav
+header
 {
-	
-	border: 1px solid #dddddd;
+	border: 20px solid #FFFF7F;
+	box-sizing: border-box;
+	height: 400px;
+	background-image: url("images/horizons.JPG");
+	background-size:cover;
+	background-position: center;
+}
+.title
+{
+	color: turquoise;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 50px;
+	text-align: center;
+
+}
+.horizons
+{
+	border: 20px solid #bbbbbb;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: 17px;
+	display: ;
 }
 
 .bio
@@ -15,12 +36,6 @@ body
 	font-family:'Pangolin', cursive;
 	font-size: 15px;
 	text-align: left;
-}
-.title
-{
-	color: turquoise;
-	font-family: "Comic Sans MS", cursive, sans-serif;
-	font-size: 18;
 }
 .aside
 {
@@ -33,4 +48,10 @@ body
 	width: 600px;
 	height: 400px;
 	display:center;
+}
+.text_box
+{
+	width: 251px;
+	height: 41px;
+	display: inline-block;
 }
