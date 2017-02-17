@@ -5,10 +5,8 @@ body
 }
 .nav
 {
-	width: 200px;
-	height: 400px;
-	display: center;
-	border: 10px solid #dddddd;
+	
+	border: 1px solid #dddddd;
 }
 
 .bio
