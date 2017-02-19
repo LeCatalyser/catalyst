@@ -1,11 +1,11 @@
 
 body
 {
-	background:#d8d8d0;
+	background:#ffffff;
 }
 header
 {
-	border: 20px solid #ff6f69;
+	border: 20px solid #e1f7d5;
 	box-sizing: border-box;
 	height: 400px;
 	background-image: url("images/horizons.JPG");
@@ -14,7 +14,7 @@ header
 }
 .title
 {
-	color: turquoise;
+	color: #c9c9ff;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size: 50px;
 	text-align: center;
